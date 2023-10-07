@@ -36,7 +36,7 @@ The following animation demonstrates the application functionality:
 
 ![A user clicks on slots on the color-coded calendar and edits the events.](./Assets/05-third-party-apis-homework-demo.gif)
 
-![Work Day Scheduler App](image.png)
+<img width="422" alt="image" src="https://github.com/kevin6314/workday-scheduler/assets/106692399/965590e5-26e5-44f8-a5e3-4e8d29491207">
 
 ## Submission
 
@@ -44,3 +44,4 @@ You are required to submit the following for review:
 
 * https://github.com/kevin6314/workday-scheduler
 
+* https://kevin6314.github.io/workday-scheduler/ 
